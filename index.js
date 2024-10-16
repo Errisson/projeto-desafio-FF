@@ -1,7 +1,7 @@
 // Desafio classificador nivel de heroi
-const frase = ("O Herói de nome ERRISSON está no nível de ")
+
 let nome = ("Errisson")
-let XP = 15000
+let XP = 5623
 
 if (XP <= 1000) {
 console.log ( "O Herói " + nome + " está no nível de Ferro!")
